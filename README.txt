@@ -1,3 +1,6 @@
+This is a portfolio website that I have built on a website template from HTML5 UP. Hope to see you enjoy going through my projects!
+
+
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
