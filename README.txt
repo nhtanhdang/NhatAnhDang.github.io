@@ -1,4 +1,4 @@
-This is a portfolio website that I have built on a template from HTML5 UP. Hope to see you enjoy going through my projects!
+This is a portfolio website that I have built on a design template from HTML5 UP. Hope to see you enjoy going through my projects!
 
 
 Massively by HTML5 UP
